@@ -1,4 +1,4 @@
-# joint-embedding-for-entity-alignment
+# Joint-embedding-for-entity-alignment
 tensorflow implementation of joint embedding method for entity alignment
 
 # Datasets
